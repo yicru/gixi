@@ -38,6 +38,6 @@
     }
   },
   "files": {
-    "ignore": ["out", "dist"]
+    "ignore": ["out", "dist", "src/renderer/src/components/ui"]
   }
 }
