@@ -1,9 +1,10 @@
 import { Button } from './components/ui/button'
+import { RootLayout } from './layouts/RootLayout'
 
 export default function App() {
   return (
-    <div>
+    <RootLayout>
       <Button>Hello</Button>
-    </div>
+    </RootLayout>
   )
 }
